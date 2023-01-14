@@ -4,5 +4,5 @@ Blockfund is a Web3 crowdfunding app that allows users to create, view and donat
 ## Thirdweb:
 Apart from the obvious programming languages, the ThirdWeb framework made the deployment of these smart contracts extremely easy and seamless, and it's something I'll continue to use on future projects
 
-##Conclusion
+## Conclusion
 Check out the rest of my code that I've uploaded - that's all!
